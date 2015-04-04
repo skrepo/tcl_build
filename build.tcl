@@ -11,7 +11,7 @@
 
 # Example
 # Build project sample for linux-ix86 with basekit base-tcl-8.6.3.1 and packages tls-1.6.4 autoproxy-1.5.3
-# build win32 ix86 sample base-tcl-8.6.3.1 {tls-1.6.4 autoproxy-1.5.3}
+# build linux ix86 sample base-tcl-8.6.3.1 {tls-1.6.4 autoproxy-1.5.3}
 
 # Run sample project without building
 # NOTE: package versions are not respected!!!
