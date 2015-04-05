@@ -26,11 +26,3 @@
 # Run project sample not as starpack but from unwrapped vfs
 # Project must be built for this platform first!
 #run sample
-
-
-prepare-lib skcommon 0.0.0
-
-build linux ix86 sku base-tcl-8.6.3.1 {skcommon-0.0.0}
-
-build linux ix86 skd base-tcl-8.6.3.1 {skcommon-0.0.0}
-run skd
